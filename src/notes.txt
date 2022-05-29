@@ -1,0 +1,14 @@
+Bundler steps:
+
+// 1
+Read the contents of the entry file - index.js
+
+// 2
+Automatically found all the different require/import/export statements
+
+// 3 
+Automatically found all the modules on the hard drives / or directly from NPM
+
+// 4 
+Linked these files together into a single output file with all the values being 
+correctly communicated around 
