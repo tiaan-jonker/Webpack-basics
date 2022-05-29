@@ -1,0 +1,24 @@
+{
+  "name": "webpack-basics",
+  "version": "1.0.0",
+  "description": "Small project to understand what Webpack is and does exactly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiaan-jonker/Webpack-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiaan-jonker/Webpack-basics/issues"
+  },
+  "homepage": "https://github.com/tiaan-jonker/Webpack-basics#readme",
+  "dependencies": {
+    "webpack": "5.11.1",
+    "webpack-cli": "4.3.0"
+  }
+}
